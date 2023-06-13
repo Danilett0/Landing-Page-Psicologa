@@ -224,7 +224,7 @@ body main {
   -ms-flex-align: center;
   align-items: center;
   padding-bottom: 5%;
-  background-color: #fafafaa8;
+  background-color: #fafafad5;
 }
 
 body main .int-main1 {
@@ -300,6 +300,7 @@ body main .int-main3 .subcaja1 {
   align-items: center;
   box-shadow: 1px 3px 7px var(--Gris-Claro);
   padding: 15px;
+  background-color: white;
 }
 
 body main .int-main3 .subcaja1 .int-subcaja1 {
